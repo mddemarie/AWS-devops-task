@@ -1,0 +1,14 @@
+{
+  "name": "aws-ec2-instance",
+  "version": "1.0.0",
+  "description": "Launching AWS EC2 instance with launch time",
+  "main": "ec2-createinstances.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marie",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.188.0"
+  }
+}
